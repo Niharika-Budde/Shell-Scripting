@@ -1,2 +1,1 @@
 # Shell-Scripting
-echo-->print 
